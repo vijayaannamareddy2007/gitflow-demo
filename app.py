@@ -1,3 +1,6 @@
+MESSAGE = "Hello from change-message branch"
+
+
 def add(a, b):
     return a + b
 
